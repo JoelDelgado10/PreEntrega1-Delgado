@@ -1,0 +1,11 @@
+.itemListContainer{
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 3rem 5rem 5rem 5rem;
+    height: auto;
+    row-gap: 2rem;
+    height: 100%;
+}
